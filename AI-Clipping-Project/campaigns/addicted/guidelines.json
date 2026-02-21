@@ -1,0 +1,117 @@
+{
+  "campaign_name": "ADDICTED — Gambling / High-Stakes Moments Clipping Campaign",
+  "campaign_id": "addicted",
+  "whop_campaign_url": "YOUR_WHOP_CAMPAIGN_URL_HERE",
+  
+  "clipping_rules": {
+    "critical": [
+      "DO NOT CUT THE WIN OUT OF THE FRAME. Keep the entire win inside of the clip otherwise we will reject.",
+      "Watch reference: https://www.loom.com/share/b5ebe574e2a844138c585620bc81b0e5"
+    ],
+    "focus_on": [
+      "Big wins / big losses",
+      "Expensive unboxings",
+      "High-tension moments",
+      "Shock reactions",
+      "\"You won't believe this just happened\" energy"
+    ],
+    "goal": "attention + excitement, not education"
+  },
+  
+  "approved_sources": {
+    "google_drive": [
+      "https://drive.google.com/drive/folders/1EPdZg5PbXFCzIfee-HkJKmOwzhTU4C46?usp=sharing"
+    ],
+    "kick_clip": [
+      "https://kickbot.com/clip/mm85q3es8etx"
+    ],
+    "youtube_longform": [
+      "https://www.youtube.com/watch?v=4mrzkFjs8gI",
+      "https://www.youtube.com/watch?v=LRu8SUqbgqk",
+      "https://www.youtube.com/watch?v=-w_swDF9MqI&t=12s",
+      "https://www.youtube.com/watch?v=tn6Q5s7Ms5s&t=7s",
+      "https://www.youtube.com/watch?v=U8a1t3a-saQ",
+      "https://www.youtube.com/watch?v=Scw3EjQQn_k"
+    ],
+    "twitch_vod": [
+      "https://www.twitch.tv/videos/2691622316"
+    ],
+    "youtube_shorts": [
+      "https://www.youtube.com/shorts/z2qvA2stxik",
+      "https://www.youtube.com/shorts/5SGRHiZ9el0",
+      "https://www.youtube.com/shorts/pyHYnMkPdts",
+      "https://www.youtube.com/shorts/9eVGxbp5Nac",
+      "https://www.youtube.com/shorts/_MJ1loqKdVA",
+      "https://www.youtube.com/shorts/Ubk84RUcuvc",
+      "https://www.youtube.com/shorts/p_x2b933SSQ",
+      "https://www.youtube.com/shorts/AAhQcXn6LNo",
+      "https://www.youtube.com/shorts/i46b7IlmXAY",
+      "https://www.youtube.com/shorts/tr6NJ_TagA",
+      "https://www.youtube.com/shorts/38VsIW7a-zM",
+      "https://www.youtube.com/shorts/1yMJm6nuTGU",
+      "https://www.youtube.com/shorts/YP2Hew5OXsU",
+      "https://www.youtube.com/shorts/28J_cKfF73c",
+      "https://www.youtube.com/shorts/rGLsPDnysKY",
+      "https://www.youtube.com/shorts/dUv3Xe8sTKs"
+    ]
+  },
+  
+  "tagging_requirements": {
+    "instagram": {
+      "required": false,
+      "tags": []
+    },
+    "youtube": {
+      "required": true,
+      "tags": ["@AddictedTheSecond"]
+    },
+    "tiktok": {
+      "required": false,
+      "tags": []
+    }
+  },
+  
+  "caption_guidelines": {
+    "style": "flexible, just do what makes sense with the content",
+    "rejection_reason": "If it makes 0 sense to the content you posted, it will be rejected",
+    "tone": "exciting, high-energy, attention-grabbing",
+    "examples": [
+      "You won't believe what just happened! 🔥",
+      "This is INSANE! 💰",
+      "Wait for it... 😱"
+    ]
+  },
+  
+  "on_screen_text": {
+    "required": false,
+    "guidelines": "Not required, just do what makes sense with the content"
+  },
+  
+  "requirements": {
+    "use_approved_content_only": true,
+    "tag_in_caption": true,
+    "high_quality": true,
+    "english_only": true,
+    "keep_live_days": 30,
+    "engagement_rate": {
+      "minimum": 0.01,
+      "example": "1,000 views = 10 likes"
+    }
+  },
+  
+  "not_allowed": [
+    "Other casino branding or mentions",
+    "Misleading edits that change what actually happened",
+    "NSFW, violent, or controversial content",
+    "Low-effort clips or sloppy screen recordings",
+    "Outside gambling clips",
+    "Other creators or casinos"
+  ],
+  
+  "ftc_compliance": true,
+  
+  "dedicated_page": {
+    "required": false,
+    "note": "You may use an existing page or create a dedicated page if you want"
+  }
+}
