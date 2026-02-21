@@ -1,0 +1,13 @@
+{
+  "creators": [],
+  "check_interval_minutes": 60,
+  "auto_post": false,
+  "notification_enabled": true,
+  "instagram_accounts": [],
+  "posting_schedule": {
+    "posts_per_day": 3,
+    "preferred_hours": [9, 14, 20],
+    "min_delay_minutes": 30,
+    "max_delay_minutes": 120
+  }
+}
